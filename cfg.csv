@@ -1,0 +1,36 @@
+phename,description,enabled,name,cast
+areaType,Area type as string
+areaName,Area name as string
+areaCode,Area Code as string
+date,Date as string [YYYY-MM-DD],1,date,D
+hash,Unique ID as string
+newCasesByPublishDate,New cases by publish date,1,cases
+cumCasesByPublishDate,Cumulative cases by publish date,1,cumcases
+cumCasesBySpecimenDateRate,Rate of cumulative cases by publish date per 100k resident population
+newCasesBySpecimenDate,New cases by specimen date
+cumCasesBySpecimenDateRate,Rate of cumulative cases by specimen date per 100k resident population
+cumCasesBySpecimenDate,Cumulative cases by specimen date
+maleCases,Male cases (by age)
+femaleCases,Female cases (by age)
+newPillarOneTestsByPublishDate,New pillar one tests by publish date
+cumPillarOneTestsByPublishDate,Cumulative pillar one tests by publish date
+newPillarTwoTestsByPublishDate,New pillar two tests by publish date
+cumPillarTwoTestsByPublishDate,Cumulative pillar two tests by publish date
+newPillarThreeTestsByPublishDate,New pillar three tests by publish date
+cumPillarThreeTestsByPublishDate,Cumulative pillar three tests by publish date
+newPillarFourTestsByPublishDate,New pillar four tests by publish date
+cumPillarFourTestsByPublishDate,Cumulative pillar four tests by publish date
+newAdmissions,New admissions,1,admissions
+cumAdmissions,Cumulative number of admissions,1,cumadmissions
+cumAdmissionsByAge,Cumulative admissions by age
+cumTestsByPublishDate,Cumulative tests by publish date,cumtests
+newTestsByPublishDate,New tests by publish date,tests
+covidOccupiedMVBeds,COVID-19 occupied beds with mechanical ventilators
+hospitalCases,Hospital cases
+plannedCapacityByPublishDate,Planned capacity by publish date
+newDeaths28DaysByPublishDate,Deaths within 28 days of positive test
+cumDeaths28DaysByPublishDate,Cumulative deaths within 28 days of positive test
+cumDeaths28DaysByPublishDateRate,Rate of cumulative deaths within 28 days of positive test per 100k resident population
+newDeaths28DaysByDeathDate,Deaths within 28 days of positive test by death date
+cumDeaths28DaysByDeathDate,Cumulative deaths within 28 days of positive test by death date
+cumDeaths28DaysByDeathDateRate,Rate of cumulative deaths within 28 days of positive test by death date per 100k resident population
