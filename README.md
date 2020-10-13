@@ -1,7 +1,7 @@
 # qronavirus
 ## q library for connecting to PHE 'Coronavirus (COVID-19) in the UK' API
 
-This is a kdb+/q library for the COVID-19 API, as published by Public Health England on [Coronavirus (COVID-19) in the UK.](https://coronavirus.data.gov.uk/).
+This is a kdb+/q library for the COVID-19 API, as published by Public Health England on [Coronavirus (COVID-19) in the UK](https://coronavirus.data.gov.uk/).
 
 Details of the API can be found [here](https://coronavirus.data.gov.uk/developers-guide).
 This library handles necessary requests, pagination, and parsing, meaning that
